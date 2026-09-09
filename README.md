@@ -51,6 +51,3 @@ chmod +x run_music.sh
 *Note: If no folder parameter is supplied, it defaults target indexes to look directly inside your local system `~/Music` directory.*
 
 ---
-
-## 📜 System Execution Architecture
-Developed and maintained exclusively by **DEDSEC**. Under active maintenance optimized for newer Python platforms.
